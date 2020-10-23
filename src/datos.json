@@ -1,0 +1,6 @@
+[
+
+  {"name":"Emilio","lastname":"Paz", "age":"21","occupation":"Engineer", "id":2},
+  {"name":"Luz","lastname":"Lopez", "age":"35", "occupation":"Chef", "id":3},
+  {"name":"Paloma","lastname":"Gil", "age":"26", "occupation":"Student", "id":4}
+]
